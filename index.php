@@ -50,7 +50,6 @@
   if ($y-- == 0) echo $y;
 
   /* Now it will test the value of $y before substracting, once tested, it will proceed to subsctract 1 */
-  
 
 
 
